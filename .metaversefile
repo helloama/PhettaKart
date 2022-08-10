@@ -1,7 +1,7 @@
 {
   "name": "Phetta Kart",
   "description": "Phettaverse Dream kart",
-  "start_url": "https://helloama.github.io/PhettaKart/hovercraft.glb",
+  "start_url": "hovercraft.glb",
   "components": [
     {
       "key": "sit",
